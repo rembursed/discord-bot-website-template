@@ -12,7 +12,7 @@ const Footer = () => {
             <ul>
               <li>
                 <Link className="h-color" href="/">
-                  bot.gg
+                  snorebot.com
                 </Link>
                 <span
                   style={{
@@ -30,7 +30,7 @@ const Footer = () => {
                     alt="online-status"
                     className="onlineStatus"
                   />{" "}
-                  Bot is online!
+                  Snore is online!
                 </span>
               </li>
             </ul>
